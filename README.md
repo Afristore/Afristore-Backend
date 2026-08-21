@@ -1,6 +1,5 @@
 # Afristore-Backend
 
-> **🟠 Priority:** High | **Difficulty:** Medium | **Estimated Effort:** 2–3 days
 
 The Node.js backend for the [Afristore Marketplace](https://github.com/Afristore/marketplace) — extracted from the monorepo into its own dedicated repository.
 
@@ -13,7 +12,7 @@ This service includes:
 
 ---
 
-## 🚀 Getting Started (once code is populated)
+##  Getting Started (once code is populated)
 
 ```bash
 npm install
@@ -25,7 +24,7 @@ npm run crank     # Start the Crank keep-alive bot
 
 ---
 
-## 🔧 Environment Variables
+##  Environment Variables
 
 Copy `.env.example` to `.env` and fill in:
 
@@ -41,7 +40,7 @@ Copy `.env.example` to `.env` and fill in:
 
 ---
 
-## 📋 Source Location (Monorepo)
+##  Source Location (Monorepo)
 
 This repository is being extracted from [`afristore/indexer/`](https://github.com/Afristore/marketplace/tree/master/indexer) in the main monorepo.
 
@@ -49,7 +48,7 @@ This repository is being extracted from [`afristore/indexer/`](https://github.co
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork this repository
 2. Create a feature branch: `git checkout -b feat/your-feature`
@@ -60,7 +59,7 @@ This repository is being extracted from [`afristore/indexer/`](https://github.co
 
 ---
 
-## 📦 Tech Stack
+##  Tech Stack
 
 - Node.js 20+ / TypeScript
 - Express 5
